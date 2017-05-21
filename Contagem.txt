@@ -1,0 +1,5 @@
+Contagem dos Votos: 
+Sim: 16
+Não: 12
+Absteções: 6
+Ausentes: 3
